@@ -1,0 +1,25 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Express project with Vercel Web Analytics",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo \"Build successful - static HTML site\"",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanya3107-P/express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaitanya3107-P/express/issues"
+  },
+  "homepage": "https://github.com/chaitanya3107-P/express#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
